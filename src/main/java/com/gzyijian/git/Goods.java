@@ -3,6 +3,7 @@ package com.gzyijian.git;
 public class Goods {
 
 	public static void main(String[] args) {
-		System.out.println("rightÄãºÃ........");
+		System.out.println("ÖÐ¼ä........");
+		System.out.println("hot fix...");
 	}
 }
